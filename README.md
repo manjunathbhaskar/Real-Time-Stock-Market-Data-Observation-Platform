@@ -1,1 +1,1 @@
-# manjunathbhaskar-Real-Time-Stock-Market-Data-Observation-Platform
+Real-Time-Stock-Market-Data-Observation-Platform
